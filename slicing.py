@@ -25,3 +25,10 @@ print(letters[4::-1])
 #last 8 characters
 print(letters[:-9:-1])
 
+print(letters[-4:]) #last 4 chars of the string
+print(letters[-1:]) #last 1 char of the string
+print(letters[:1]) #first char of the string
+print(letters[0]) #similar to the above
+
+
+
