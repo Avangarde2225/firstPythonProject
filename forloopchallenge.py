@@ -8,7 +8,7 @@ and Public Health, what have the Romans ever done for us?
 capitalletter= " "
 
 for char in quote:
-    if char[0].isupper():
-        capitalletter = capitalletter +" "+ char
-
-print(capitalletter)
+    if char.isupper():
+        #capitalletter = capitalletter +" "+ char
+        print(char)
+#print(capitalletter)
