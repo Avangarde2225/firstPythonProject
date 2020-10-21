@@ -12,4 +12,13 @@ print(len(even))
 print()
 
 print("mississippi".count("s"))
+print()
 
+even.extend(odd)
+print(even)
+
+even.sort()
+print(even)
+
+even.sort(reverse = True)
+print(even)
