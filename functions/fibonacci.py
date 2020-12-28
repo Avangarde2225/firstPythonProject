@@ -10,3 +10,6 @@ def fibonacci(n):
         n_minus1 = result
 
     return result
+
+for i in range(36):
+    print(i, fibonacci(i))
